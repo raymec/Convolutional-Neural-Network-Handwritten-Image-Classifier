@@ -22,6 +22,12 @@ Early Stopping
 
 Transfer learning was used to apply the existing model to a new data set
 
+
+Completed in collaboration with:
+Yu Pan
+Sijie Shang
+John Tu
+
 Data augmentation was used to create variations of the smaller data set; mended overfitting problems
 
 
