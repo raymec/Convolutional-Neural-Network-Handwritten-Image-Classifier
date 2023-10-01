@@ -1,5 +1,4 @@
-# CNN
-Convolutional Neural Network using EMNIST and Binary Alphadigits dataset
+# Convolutional Neural Network using EMNIST and Binary Alphadigits dataset
 
 
 Techniques used for fine-tuning:
