@@ -26,7 +26,7 @@ Data augmentation was used to create variations of the smaller data set; mended 
 
 
 Completed in collaboration with:
-Yu Pan
-Sijie Shang
+Yu Pan, 
+Sijie Shang, 
 John Tu
 
